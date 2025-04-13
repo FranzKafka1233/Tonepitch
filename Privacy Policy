@@ -9,38 +9,71 @@ Tonepitch ("we," "our," or "us") is committed to protecting your privacy. This P
 ## Information We Collect
 
 ### Information You Provide
-- We do not collect any personal information from you.
-- The App does not require any user accounts or registration.
+- We do not collect any personal information directly from you
+- The App does not require any user accounts or registration
 
 ### Information Automatically Collected
-- The App requires microphone access to function as a guitar tuner.
-- We do not store or transmit any audio data.
-- We do not track your usage or collect analytics.
+- **Audio Processing**: The app uses your device's microphone only for real-time pitch analysis
+  - All audio processing happens entirely on your device
+  - We do not store or transmit any audio data
+- **AdMob Data**: Our advertising partner (Google AdMob) may collect:
+  - Device identifiers (Advertising ID)
+  - IP address
+  - Cookie data
+  - Usage data and interaction with ads
+  - General location data (based on IP address)
 
-## How We Use Your Information
-- We only use the microphone to analyze pitch in real-time for tuning purposes.
-- We do not store or share any of your information with third parties.
+## Third-Party Services
+
+### Google AdMob
+The app uses Google AdMob for advertisements. AdMob's data collection practices are governed by Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+### Advertising Data Usage
+To serve personalized ads (where permitted by law), our ad partners may:
+- Collect device information (model, OS version)
+- Use interest-based advertising
+- Share data with third-party advertisers
+
+To opt out of personalized ads:
+1. Open your device Settings
+2. Go to Privacy → Ads
+3. Enable "Opt out of Ads Personalization"
 
 ## Data Security
-- We do not store any data, so there is no risk of data breaches.
-- All audio processing is done locally on your device.
+- All audio processing is done locally on your device
+- We implement industry-standard security measures
+- Third-party services (AdMob) follow their own security protocols
 
 ## Children's Privacy
-- The App is suitable for all ages.
-- We do not knowingly collect any personal information from children.
+- The App is suitable for all ages
+- For users under 13:
+  - We disable personalized ads
+  - Only contextual ads are shown
+  - We comply with the Children's Online Privacy Protection Act (COPPA)
+- Parents can contact us about their children's data
+
+## Your Rights
+You have the right to:
+- Access your data
+- Request deletion of stored data
+- Opt out of personalized advertising
+- Contact us about privacy concerns
 
 ## Changes to This Privacy Policy
-- We may update this Privacy Policy from time to time.
-- We will notify you of any changes by posting the new Privacy Policy on this page.
+- We may update this Privacy Policy from time to time
+- We will notify you of any changes by posting the new Privacy Policy on this page
+- Continued use after changes implies acceptance
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 tonepitch1@gmail.com
 
 ## California Privacy Rights
-- We do not sell or share your personal information.
-- We do not track your activity across other websites.
+- We do not sell your personal information
+- AdMob may collect data for advertising purposes
+- You can opt out of personalized advertising as described above
 
 ## European Union Privacy Rights
-- We do not collect or process any personal data as defined under GDPR.
-- We do not transfer any data outside the European Union. 
+- We comply with GDPR requirements
+- Data collection is limited to what is necessary for app functionality and advertising
+- You can exercise your data rights as described in "Your Rights" section 
